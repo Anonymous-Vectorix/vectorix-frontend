@@ -1,4 +1,4 @@
-# vectorix-frontend
+# Vectorix-Frontend
 
 # Installation Guide 🔥
 ## ✅ Hosting Requirements
